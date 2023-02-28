@@ -1,0 +1,41 @@
+.calculator-results-section-wrapper{
+
+}
+
+.calculator-results-donut-with-legend{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 0px;
+}
+
+.donut-results-chart{
+    width: 100% !important;
+    height: auto !important;
+}
+
+.calculator-results-legend{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.calculator-results-legend h3{
+    display: flex;
+    align-items: center;
+}
+
+.color-swatch{
+    height: 18px;
+    width: 18px;
+    margin-right: 10px;
+}
+
+.calculator-results-legend-inner h3{
+    font-weight: 600;
+    font-size: 19px;
+    color: #344054;
+}

@@ -1,0 +1,45 @@
+.calculator-section-heading{
+    display: flex;
+    align-items: center;
+    flex: auto auto;
+    font-weight: 600;
+}
+
+.calculator-section-heading hr{
+    flex: 1;
+    height: 5px;
+    border: 0;
+    margin: 0 0 0 20px;
+    align-self: center;
+    background-color: #7A8699;
+    color: #7A8699
+}
+.calculator-section-heading h2{
+    flex: 0 1 auto;
+}
+
+.calculator-two-column-layout{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+}
+
+
+.css-1pnmrwp-MuiTypography-root{
+    font-size: 20px !important;
+    font-family: 'Lato', sans-serif !important;
+}
+
+.css-1o9s3wi-MuiInputBase-input-MuiOutlinedInput-input{
+    font-size: 20px !important;
+    font-family: 'Lato', sans-serif !important;
+}
+
+.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input{
+    font-size: 20px !important;
+    font-family: 'Lato', sans-serif !important;
+}
+
+
