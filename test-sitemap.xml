@@ -1,507 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    <url>
-        <loc>
-            https://www.doorloop.com/
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/about
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/about"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/associations
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/associations"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/awards
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/awards"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/blog
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/blog"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/blogs/all
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/blogs/all"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/blogs/doorloop
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/blogs/doorloop"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/blogs/popular
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/blogs/popular"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/blogs/property-management
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/blogs/property-management"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/blogs/topics
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/blogs/topics"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/careers
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/careers"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/raving-fans
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/raving-fans"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/contact
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/contact"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/definitions
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/definitions"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/demo
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/demo"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/demo-video
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/demo-video"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/directory
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/directory"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/faq
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/faq"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/forms
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/forms"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/founding-members
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/founding-members"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/home
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/home"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/hubs/brrrr
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/hubs/brrrr"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/hubs/property-accounting-hub
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/hubs/property-accounting-hub"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/hubs/property-management-101
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/hubs/property-management-101"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/hubs
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/hubs"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/integrations
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/integrations"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/join
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/join"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/laws
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/laws"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/love
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/love"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/partner
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/partner"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/podcasts
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/podcasts"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/portfolios
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/portfolios"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/press
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/press"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/pricing
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/pricing"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/refer
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/refer"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/renters-insurance
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/renters-insurance"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/resources
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/resources"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/search
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/search"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/security
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/security"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/signup
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/signup"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/sitemap
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/sitemap"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/support
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/support"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/thanks
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/thanks"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/thanks-confirmed
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/thanks-confirmed"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/thanks-email
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/thanks-email"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/vs
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/vs"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/webinars
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/webinars"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/website-review
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/website-review"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/websites
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/websites"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/calculators
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/calculators"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/scholarships
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/scholarships"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/video-hub
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/video-hub"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/affiliate
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/affiliate"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/subscribed
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/subscribed"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/real-estate-trends
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/real-estate-trends"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/job-post
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/job-post"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/looper-ai
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/looper-ai"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/legal/affiliate
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/legal/affiliate"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/legal/all
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/legal/all"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/legal/anti-spam-policy
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/legal/anti-spam-policy"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/legal/privacy
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/legal/privacy"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/legal/rapidrent
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/legal/rapidrent"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/legal/tenant-portal
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/legal/tenant-portal"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/legal/terms
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/legal/terms"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/legal/transunion
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/legal/transunion"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/legal/websites
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/legal/websites"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/accounting
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/accounting"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/advertise-listings
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/advertise-listings"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/bank-sync
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/bank-sync"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/communication-tools
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/communication-tools"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/crm
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/crm"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/leasing
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/leasing"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/mobile-apps
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/mobile-apps"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/owners
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/owners"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/product
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/product"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/property-management
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/property-management"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/property-management-accounting-software
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/property-management-accounting-software"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/quickbooks-online-integration
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/quickbooks-online-integration"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/rapid-rent
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/rapid-rent"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/rental-applications
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/rental-applications"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/reports
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/reports"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/storage
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/storage"/>
-    </url>
-    <url>
-        <loc>
-            https://www.doorloop.com/features/tenant-management-software
-        </loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.doorloop.com/features/tenant-management-software"/>
-    </url>
+<url>
+    <loc>https://www.doorloop.com/login</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/login'/></url>
+<url>
+    <loc>https://www.doorloop.com/</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/accounting</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/accounting'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/property-management-accounting-software</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/property-management-accounting-software'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/bank-sync</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/bank-sync'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/quickbooks-online-integration</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/quickbooks-online-integration'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/reports</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/reports'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/leasing</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/leasing'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/advertise-listings</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/advertise-listings'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/rapid-rent</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/rapid-rent'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/rental-applications</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/rental-applications'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/tenant-screening</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/tenant-screening'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/tenant-management-software</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/tenant-management-software'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/product</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/product'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/communication-tools</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/communication-tools'/></url>
+<url>
+    <loc>https://www.doorloop.com/integrations</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/integrations'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/mobile-apps</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/mobile-apps'/></url>
+<url>
+    <loc>https://www.doorloop.com/security</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/security'/></url>
+<url>
+    <loc>https://www.doorloop.com/support</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/support'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/property-management</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/property-management'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/crm</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/crm'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/storage</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/storage'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/work-orders</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/work-orders'/></url>
+<url>
+    <loc>https://www.doorloop.com/features/owners</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features/owners'/></url>
+<url>
+    <loc>https://www.doorloop.com/renters-insurance</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/renters-insurance'/></url>
+<url>
+    <loc>https://www.doorloop.com/websites</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/websites'/></url>
+<url>
+    <loc>https://www.doorloop.com/portfolios/affordable-housing-property-management-software</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/portfolios/affordable-housing-property-management-software'/></url>
+<url>
+    <loc>https://www.doorloop.com/portfolios/commercial-property-management-software</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/portfolios/commercial-property-management-software'/></url>
+<url>
+    <loc>https://www.doorloop.com/portfolios/hoa-management-software</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/portfolios/hoa-management-software'/></url>
+<url>
+    <loc>https://www.doorloop.com/portfolios/mobile-home-management-software</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/portfolios/mobile-home-management-software'/></url>
+<url>
+    <loc>https://www.doorloop.com/portfolios/residential-property-management-software</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/portfolios/residential-property-management-software'/></url>
+<url>
+    <loc>https://www.doorloop.com/portfolios/self-storage-property-management-software</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/portfolios/self-storage-property-management-software'/></url>
+<url>
+    <loc>https://www.doorloop.com/portfolios/student-housing-property-management-software</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/portfolios/student-housing-property-management-software'/></url>
+<url>
+    <loc>https://www.doorloop.com/features</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/features'/></url>
+<url>
+    <loc>https://www.doorloop.com/about</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/about'/></url>
+<url>
+    <loc>https://www.doorloop.com/raving-fans</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/raving-fans'/></url>
+<url>
+    <loc>https://www.doorloop.com/awards</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/awards'/></url>
+<url>
+    <loc>https://www.doorloop.com/faq</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/faq'/></url>
+<url>
+    <loc>https://www.doorloop.com/press</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/press'/></url>
+<url>
+    <loc>https://www.doorloop.com/love</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/love'/></url>
+<url>
+    <loc>https://www.doorloop.com/associations</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/associations'/></url>
+<url>
+    <loc>https://www.doorloop.com/blog</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/blog'/></url>
+<url>
+    <loc>https://www.doorloop.com/calculators</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/calculators'/></url>
+<url>
+    <loc>https://www.doorloop.com/definitions</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/definitions'/></url>
+<url>
+    <loc>https://www.doorloop.com/directory</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/directory'/></url>
+<url>
+    <loc>https://www.doorloop.com/hubs</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/hubs'/></url>
+<url>
+    <loc>https://www.doorloop.com/laws</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/laws'/></url>
+<url>
+    <loc>https://www.doorloop.com/podcasts</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/podcasts'/></url>
+<url>
+    <loc>https://www.doorloop.com/forms</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/forms'/></url>
+<url>
+    <loc>https://www.doorloop.com/video-hub</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/video-hub'/></url>
+<url>
+    <loc>https://www.doorloop.com/webinars</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/webinars'/></url>
+<url>
+    <loc>https://www.doorloop.com/resources</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/resources'/></url>
+<url>
+    <loc>https://www.doorloop.com/pricing</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/pricing'/></url>
+<url>
+    <loc>https://www.doorloop.com/#</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/#'/></url>
+<url>
+    <loc>https://app.doorloop.com/</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://app.doorloop.com/'/></url>
+<url>
+    <loc>https://www.doorloop.com/contact</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/contact'/></url>
+<url>
+    <loc>https://www.doorloop.com/rapidrent</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/rapidrent'/></url>
+<url>
+    <loc>https://www.doorloop.com/demo</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/demo'/></url>
+<url>
+    <loc>https://www.doorloop.com/legal/terms</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/legal/terms'/></url>
+<url>
+    <loc>https://www.doorloop.com/legal/privacy</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/legal/privacy'/></url>
+<url>
+    <loc>https://apps.apple.com/in/app/doorloop/id1590868801</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://apps.apple.com/in/app/doorloop/id1590868801'/></url>
+<url>
+    <loc>https://play.google.com/store/apps/details?id=com.doorloop.mobile_app&hl=en_US&gl=US&pli=1</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://play.google.com/store/apps/details?id=com.doorloop.mobile_app&hl=en_US&gl=US&pli=1'/></url>
+<url>
+    <loc>https://www.facebook.com/DoorLoopApp/</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.facebook.com/DoorLoopApp/'/></url>
+<url>
+    <loc>https://www.instagram.com/doorloopapp/</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.instagram.com/doorloopapp/'/></url>
+<url>
+    <loc>https://www.youtube.com/@DoorLoop</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.youtube.com/@DoorLoop'/></url>
+<url>
+    <loc>https://twitter.com/doorloopapp</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://twitter.com/doorloopapp'/></url>
+<url>
+    <loc>https://www.linkedin.com/company/doorloop/</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.linkedin.com/company/doorloop/'/></url>
+<url>
+    <loc>https://www.tiktok.com/@doorloopapp</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.tiktok.com/@doorloopapp'/></url>
+<url>
+    <loc>https://www.doorloop.com/portfolios</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/portfolios'/></url>
+<url>
+    <loc>https://www.doorloop.com/careers</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/careers'/></url>
+<url>
+    <loc>https://www.doorloop.com/refer</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/refer'/></url>
+<url>
+    <loc>https://docs.doorloop.com/</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://docs.doorloop.com/'/></url>
+<url>
+    <loc>https://www.doorloop.com/affiliate</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/affiliate'/></url>
+<url>
+    <loc>https://www.youtube.com/doorloop</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.youtube.com/doorloop'/></url>
+<url>
+    <loc>https://twitter.com/doorloopapp/</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://twitter.com/doorloopapp/'/></url>
+<url>
+    <loc>https://doorloop.statuspage.io/</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://doorloop.statuspage.io/'/></url>
+<url>
+    <loc>https://support.doorloop.com/en/collections/3851236-doorloop-updates</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://support.doorloop.com/en/collections/3851236-doorloop-updates'/></url>
+<url>
+    <loc>https://www.doorloop.com/sitemap</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/sitemap'/></url>
+<url>
+    <loc>https://www.doorloop.com/legal/anti-spam-policy</loc><xhtml:link rel='alternate' hreflang='x-default' href='https://www.doorloop.com/legal/anti-spam-policy'/></url>
 </urlset>
